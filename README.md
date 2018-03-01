@@ -1,2 +1,2 @@
 # IoT_Programming
-Slides from our IoT Programming Series using the Raspberry Pi.
+Slides from our IoT Programming series using the Raspberry Pi.
